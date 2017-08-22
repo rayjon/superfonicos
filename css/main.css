@@ -113,8 +113,8 @@ main {
 }
 
 .super h1 {
-    font-size: 4vw;
-    letter-spacing: 3px;
+    font-size: 8vw;
+    letter-spacing: -0.3vw;
     text-transform: uppercase;
 }
 
