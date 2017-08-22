@@ -113,13 +113,13 @@ main {
 }
 
 .super h1 {
-    font-size: 11.25vw;
+    font-size: 4vw;
     letter-spacing: 3px;
     text-transform: uppercase;
 }
 
 .super h2 {
-    font-size: 3vw;
+    font-size: 1.5vw;
 }
 
 .super img {
